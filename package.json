@@ -1,0 +1,14 @@
+{
+  "name": "basic-informational-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
